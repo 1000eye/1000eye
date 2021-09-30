@@ -1,7 +1,7 @@
 from web3 import Web3
 #fetch the nasdaq closing index on Sep.29 https://www.bloomberg.com/quote/CCMP:IND
 
-Stockprice = 1925228
+Stockprice = 1451244
 #assuming the closing index is 19252.28 (change this number to the real index of Sep.29) times 100
 
 s=[]
